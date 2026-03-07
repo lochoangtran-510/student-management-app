@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+label { display:inline-block; width:100px; }
+input { margin:6px 0; }
+button { margin-right:6px }
