@@ -1,0 +1,45 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# SQLite database files (keep folder, ignore DB file)
+backend/data/*.db
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test / coverage
+.pytest_cache/
+
+# Node modules (if frontend uses npm/yarn)
+node_modules/
+frontend/node_modules/
+
+# Misc
+# local VS Code settings
+.vscode/*
