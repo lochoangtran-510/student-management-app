@@ -1,6 +1,6 @@
 # Student Management (Vibe Coding)
 
-Personal: Your Name Here
+Personal: Tran Hoang Xuan Loc
 
 Tech stack: FastAPI, React-like simple frontend (HTML+JS), SQLite
 
